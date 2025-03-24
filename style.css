@@ -1,0 +1,25 @@
+.category-tile img {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.category-tile {
+    /* margin-bottom: 15px; */
+    border-radius: 15px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.search-box {
+    margin-bottom: 20px;
+}
+
+.container {
+    /* height: auto; width: 300px; */
+    align-items: center; /* Aligns items in the flex container */
+}
+
+.dotted-line {
+    border-top: 1px dotted #ccc; /* Dotted line with light gray color */
+    margin: 0;
+}
