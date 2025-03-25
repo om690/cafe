@@ -23,3 +23,12 @@
     border-top: 1px dotted #ccc; /* Dotted line with light gray color */
     margin: 0;
 }
+.carousel-inner {
+    border-radius: 15px;
+}
+.bi-justify{
+    margin-left: 230px;
+}
+.t-6{
+    margin-left: 180px;
+}
